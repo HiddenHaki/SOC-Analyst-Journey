@@ -65,6 +65,8 @@ Example Output:
 ---
 ### 📌 Screenshots
 📸 Added screenshots in the `screenshots` folder.
+[![PermissionCHMOD](img1.png)](google.com)
+
 
 ---
 ### Conclusion
