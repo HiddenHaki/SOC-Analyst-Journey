@@ -66,9 +66,9 @@ Example Output:
 ### 📌 Screenshots
 # 📸 Added screenshots in the `screenshots` folder.
 
-[![PermissionCHMOD](Screenshots\img1.png)]
-[![PermissionCHMOD](Screenshots\img2.png)]
-[![PermissionCHMOD](Screenshots\img3.png)]
+![PermissionCHMOD](Screenshots\img1.png)
+![PermissionCHMOD](Screenshots\img2.png)
+![PermissionCHMOD](Screenshots\img3.png)
 
 ---
 ### Conclusion
